@@ -3,7 +3,7 @@ console.log("RUN SCRIPT");
 // Đổi style của tiêu đề Our companies thành chữ in đậm và kích thước 32px
 // Gợi ý: Sử dụng .style.fontWeight và .style.fontSize
 
-var title = document.querySelector(".title-section").style.fontWeight = "Bold"
+var title = document.querySelector(".title-section").style.fontWeight = "bold"
 //console.log(title);
 
 document.querySelector(".title-section").style.fontSize = "32px"
